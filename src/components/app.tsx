@@ -11,9 +11,7 @@ interface Props {
 
 export default function App(props: Props) {
     return (
-        <h1 style={style}>
-        Hello from {props.compiler} and {props.framework}!!!
-        </h1>
+        <Layout/>
         
     );
 }
