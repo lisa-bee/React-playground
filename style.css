@@ -1,4 +1,12 @@
-#example {
+html, body, body > div {
+    height: 100%;
+    margin: 0;
+}
+
+
+body div {
     display: flex;
     justify-content: center;
+    align-items: center;
+
 }
