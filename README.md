@@ -1,1 +1,1 @@
-# SetUp-React
+# Simple React site
