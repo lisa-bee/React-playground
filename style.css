@@ -1,13 +1,5 @@
-/* html, body, body > div {
-    height: 100%;
+body, html, #example {
     margin: 0;
-}
-
-
-body div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 100%;
 
 }
- */
